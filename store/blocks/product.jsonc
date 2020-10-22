@@ -13,17 +13,11 @@
       "flex-layout.col#right"
     ]
   },
-
-
-//Izquierda
   "flex-layout.col#left": {
     "children": [
       "product-images"
     ]
   },
-
-//Derecha 
-//muestre el ahorro total y el precio de lista showSavings y showListPrice
   "flex-layout.col#right": {
     "props":{
       "verticalAlign": "middle",
@@ -58,5 +52,4 @@
       "showTooltipOnSkuNotSelected": false
     }
   }
-
 }

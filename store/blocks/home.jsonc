@@ -2,7 +2,8 @@
   "store.home": {
     "blocks": [
       "rich-text",
-      "responsive-layout"
+      "responsive-layout.desktop#desktop",
+      "responsive-layout.mobile#mobile"
     ]
   },
   "rich-text": {

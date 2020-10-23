@@ -96,7 +96,7 @@
   },
   "product-brand": {
     "prop": {
-      "height": 30,
+      "height": "30",
       "displayMode": "logo"
     }
   }

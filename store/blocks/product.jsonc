@@ -59,7 +59,8 @@
     "flex-layout.row#qty-sku": {
       "children": [
         "sku-selector",
-        "product-quantity"
+        "product-quantity",
+        "shipping-simulator"
       ]
   },
   "buy-button#product": {
@@ -77,5 +78,10 @@
     "props": {
         "warningQuantityThreshold": 9999999
     } 
+  },
+  "shipping-simulator": {
+    "props": {
+      "skuID": "342"
+    }
   }
 }

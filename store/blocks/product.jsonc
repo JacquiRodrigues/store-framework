@@ -81,9 +81,14 @@
   },
   "flex-layout.row#shipping": {
     "children":[
-  "shipping-simulator"
+      "flex-layout.col#shipping"
     ]
   },
+"flex-layout.col#shipping": {
+"children":[
+  "shipping-simulator"
+]
+},
   "shipping-simulator": {
     "props": {
       "skuID": "342"

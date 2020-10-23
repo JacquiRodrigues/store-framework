@@ -17,7 +17,7 @@
       "order-by.v2",
       "search-fetch-previous",
       "search-content",
-      "filter-navigator.v3,",
+      "filter-navigator.v3",
       "search-fetch-more"
     ]
   },
@@ -26,5 +26,26 @@
   },
   "arch-not-found-layout": {
 
+  },
+  "breadcrumb.searh": {
+
+  },
+  "search-title.v2": {
+
+  },
+  "total-products.v2": {
+
+  },
+  "order-by.v2": {
+
+  },
+  "search-fetch-previous": {
+
+  },
+  "search-content": {
+
+  },
+  "filter-navigator.v3": {
+    
   }
 }

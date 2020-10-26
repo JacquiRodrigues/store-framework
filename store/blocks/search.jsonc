@@ -53,7 +53,7 @@
   },
   "search-result-layout.desktop": {
     "children": [
-      "breadcrumb.searh",
+      "breadcrumb.search",
       "search-title.v2",
       "total-products.v2",
       "order-by.v2",

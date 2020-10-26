@@ -66,10 +66,10 @@
   "search-result-layout.mobile": {
 
   },
-  "arch-not-found-layout": {
+  "search-not-found-layout": {
 
   },
-  "breadcrumb.searh": {
+  "breadcrumb.search": {
 
   },
   "search-title.v2": {
@@ -85,6 +85,7 @@
 
   },
   "search-content": {
+
 
   },
   "filter-navigator.v3": {

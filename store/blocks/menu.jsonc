@@ -6,7 +6,7 @@
       "menu-item#electronics"
     ],
     "props":{
-      "orientation": "horizontal"
+      "orientation":"horizontal"
     }
   },
   "menu-item#major-appliances": {
@@ -38,6 +38,7 @@
       "orientation": "vertical"
     }
   },
+  
   "vtex.menu@2.x:submenu#small":{
     "children":[
       "vtex.menu@2.x:menu#small"
@@ -53,6 +54,7 @@
       "orientation":"vertical"
     }
   },
+
   "vtex.menu@2.x:submenu#electronics": {
     "children":[
       "vtex.menu@2.x:menu#electronics"
@@ -68,35 +70,107 @@
       "orientation": "vertical"
     }
   },
-  "menu-item#refrigerators": {
 
+  "menu-item#refrigerators": {
+    "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 1496, 
+        "text": "refrigerators"
+      }
+    }
   },
   "menu-item#ovens": {
-    
+    "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 1496, 
+        "text": "ovens"
+      }
+    }
   },
   "menu-item#washers": {
-
+    "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 1496, 
+        "text": "washers"
+      }
+    }
   },
-
 
   "menu-item#mixers": {
-
+    "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 1496, 
+        "text": "mixers"
+      }
+    }
   }, 
   "menu-item#toasters": {
-
+    "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 1496, 
+        "text": "toasters"
+      }
+    }
   },
   "menu-item#coffee": {
-
+    "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 1496, 
+        "text": "coffee"
+      }
+    }
   },
 
 
   "menu-item#cameras": {
-
+    "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 1496, 
+        "text": "cameras"
+      }
+    }
   }, 
   "menu-item#laptops":{
-
+    "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 1496, 
+        "text": "laptops"
+      }
+    }
   }, 
   "menu-item#tvs": {
-    
+    "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 1496, 
+        "text": "tvs"
+      }
+    }
   }
 }
